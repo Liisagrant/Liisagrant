@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a former preschool teacher. Now I am back at school but as a student. This time I am learning how to code! 
+Stay tuned🤸🏻‍♀️!
+
+- 🔭 I’m currently working on Portfolio
+- 🌱 I’m currently learning Jacascript
+- 📫 How to reach me [My LinkedIn page](https://www.linkedin.com/in/lisa-grant-61249221a/)
+- ⚡ Fun fact I love coffee
+
+
+
 <!--
 **Liisagrant/Liisagrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
