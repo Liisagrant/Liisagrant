@@ -14,3 +14,7 @@ Feel free to take a look around and check out my projects :open_file_folder:. If
 [![](https://img.shields.io/badge/Email-lightgrey.svg)](mailto:lisagrant1990@gmail.com)
 
 Let's connect and create something awesome together! :rocket:
+
+
+[![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liisagrant)](https://github.com/Liisagrant/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liisagrant)](https://github.com/Liisagrant/github-readme-stats)
