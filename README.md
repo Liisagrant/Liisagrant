@@ -1,26 +1,9 @@
-### Hi there 👋
+# Welcome to my GitHub page! :wave:
 
-I am a former preschool teacher. Now I am back at school but as a student. This time I am learning how to code! 
-Stay tuned🤸🏻‍♀️!
+Hi there! My name is Lisa, and I am a 32-year-old former pre school teacher with a love for learning and a passion for all things coding. When I'm not busy teaching little ones, you can find me sipping on a steaming cup of coffee :coffee: or enjoying the great outdoors :earth_americas:.
 
-- 🔭 I’m currently working on Portfolio
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me [My LinkedIn page](https://www.linkedin.com/in/lisa-grant-61249221a/)
-- ⚡ Fun fact I love coffee
+## My Goal (so far) in 2023
+This year, my goal is to create a visually appealing tic tac toe game :game_die:, and I'm excited to share my progress and learn from others on GitHub. I hope to contribute valuable projects and collaborate with a diverse community of developers. 
 
-
-
-<!--
-**Liisagrant/Liisagrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Want to talk?
+Feel free to take a look around and check out my projects :open_file_folder:. I'm always open to feedback and suggestions :speech_balloon:, so don't hesitate to reach out. Let's connect and create something awesome together! :rocket:
