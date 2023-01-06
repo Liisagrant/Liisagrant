@@ -18,3 +18,5 @@ Let's connect and create something awesome together! :rocket:
 
 [![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liisagrant)](https://github.com/Liisagrant/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liisagrant)](https://github.com/Liisagrant/github-readme-stats)
+
+:heart: Take cear
