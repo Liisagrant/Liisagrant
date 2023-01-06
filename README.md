@@ -1,5 +1,5 @@
 # Greetings :wave:
-<img src="https://github.com/Liisagrant/Liisagrant/blob/main/Component%201.png" alt="banner whit an avatar of me" style="width: 100%;">
+<img src="https://github.com/Liisagrant/Liisagrant/blob/main/helloWorld.svg" alt="banner whit an avatar of me" style="width: 100%;">
 
 Hi there! My name is Lisa, and I am a 32-year-old former pre school teacher with a love for learning and a passion for all things coding. When I'm not busy teaching little ones, you can find me sipping on a steaming cup of coffee :coffee: or enjoying the great outdoors :earth_americas:.
 
