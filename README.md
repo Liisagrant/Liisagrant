@@ -14,6 +14,7 @@ I'm excited to share my progress and learn from others on GitHub. I hope to cont
 Feel free to take a look around and check out my projects :open_file_folder:. If you have any feedback or suggestions, I'd love to hear from you. You can reach me via email by clicking on the icon below :mailbox_with_mail:. 
 
 [![](https://img.shields.io/badge/Email-lightgrey.svg)](mailto:lisagrant1990@gmail.com)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisa-grant-61249221a/)
 
 Let's connect and create something awesome together! :rocket:
 
